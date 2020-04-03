@@ -19,3 +19,12 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #c3c3c38a; 
   }
+
+
+  .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #fff !important;
+    outline: 0;
+    box-shadow: 0 0 0 0 !important;
+}
